@@ -26,7 +26,7 @@ Scanner input = new Scanner(System.in);
 
 // INSERTING VARIABLES IN THE CODE
 
-        int x = 50;
+        int x = 70;
         int y = 30;
 
         System.out.println(doAddition(x,y));
