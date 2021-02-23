@@ -33,7 +33,12 @@ public class LearnArrays {
         //Third way to declare arrays
         String[] arrayOfName3 = {"Sacks", "Hammer", "Dan", "Phil", "Doo"};
 
-        System.out.println(arrayOfName3[3]);
+        System.out.println("The index of arrayOfName3 b4 change is  " + arrayOfName3[1]);
+        //Changing index of name
+        arraysOfName2 [1] = "John";
+        System.out.println("\nThe index of arrayOfName3 after change is  " + arrayOfName3[1]);
+
+
      }
 
 }
